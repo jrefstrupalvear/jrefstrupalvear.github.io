@@ -2,14 +2,16 @@
 
 > A public guide for operations teams deciding which recurring workflows to automate. Examples and numbers are hypothetical.
 
-Start with the guide to identify repeatable work. Use the observation sheet to record active handling time and exceptions. Compare pilot estimates, then record the decision and its quality checks in the assessment.
+To identify automation opportunities, sample completed cases from one team’s queue. Look for manual steps that repeat, measure the staff time involved, and check that a rule can handle the ordinary cases. Subtract the time people would still spend on review, then choose a small pilot with a clear stop condition.
+
+In the hypothetical invoice-routing example, removing 270 minutes of work and adding 120 minutes of review leaves 150 staff minutes recovered per week. The pilot advances if it can recover at least 60 minutes per week without routing an invoice to the wrong reviewer. A wrong route triggers a review of the rule. [Read the worked invoice-routing example](https://jrefstrupalvear.github.io/workflow-field-guide/automation-opportunity-assessment.html).
 
 ## Guides and tools
 
 - [How to identify automation opportunities](https://jrefstrupalvear.github.io/workflow-field-guide/): The main guide. Find repeated handoffs, measure active staff time, account for exception review, and choose a first pilot.
 - [Workflow observation sheet](https://jrefstrupalvear.github.io/workflow-field-guide/workflow-observation.html): A six-case example shows why the share of cases eligible for a rule can differ from their share of staff effort.
 - [Automation opportunity calculator](https://jrefstrupalvear.github.io/workflow-field-guide/automation-scorecard.html): Compare two pilots using volume, active minutes, removable share, and added review time.
-- [Automation opportunity assessment template](https://jrefstrupalvear.github.io/workflow-field-guide/automation-opportunity-assessment.html): Record a workflow's baseline, rule, exceptions, risk, and the measurement that determines whether a pilot advances.
+- [Assessment template and worked invoice-routing example](https://jrefstrupalvear.github.io/workflow-field-guide/automation-opportunity-assessment.html): Record a workflow's baseline, rule, exceptions, risk, and the measurement that determines whether a pilot advances.
 
 ## Plain-text copies
 
