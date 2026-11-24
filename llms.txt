@@ -1,0 +1,18 @@
+# Workflow Field Guide
+
+> A public guide for operations teams deciding which recurring workflows to automate. Examples and numbers are hypothetical.
+
+Start with the guide to identify repeatable work. Use the observation sheet to record active handling time and exceptions. Compare pilot estimates, then record the decision and its quality checks in the assessment.
+
+## Guides and tools
+
+- [How to identify automation opportunities](https://jrefstrupalvear.github.io/workflow-field-guide/): The main guide. Find repeated handoffs, measure active staff time, account for exception review, and choose a first pilot.
+- [Workflow observation sheet](https://jrefstrupalvear.github.io/workflow-field-guide/workflow-observation.html): A six-case example shows why the share of cases eligible for a rule can differ from their share of staff effort.
+- [Automation opportunity calculator](https://jrefstrupalvear.github.io/workflow-field-guide/automation-scorecard.html): Compare two pilots using volume, active minutes, removable share, and added review time.
+- [Automation opportunity assessment template](https://jrefstrupalvear.github.io/workflow-field-guide/automation-opportunity-assessment.html): Record a workflow's baseline, rule, exceptions, risk, and the measurement that determines whether a pilot advances.
+
+## Plain-text copies
+
+- [Guide in Markdown](https://jrefstrupalvear.github.io/workflow-field-guide/automation-opportunities.md): The main guide's method, formula, and worked examples.
+- [Blank observation sheet](https://jrefstrupalvear.github.io/workflow-field-guide/workflow-observation-sheet.md): A copyable form for recording representative cases.
+- [Blank assessment template](https://jrefstrupalvear.github.io/workflow-field-guide/automation-opportunity-assessment.md): Copy once per candidate workflow.
