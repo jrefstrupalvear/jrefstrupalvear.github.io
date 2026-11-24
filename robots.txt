@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /workflow-field-guide/
+
+User-agent: OAI-SearchBot
+Allow: /workflow-field-guide/
+
+Sitemap: https://jrefstrupalvear.github.io/workflow-field-guide/sitemap.xml
